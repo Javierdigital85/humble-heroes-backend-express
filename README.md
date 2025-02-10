@@ -21,15 +21,15 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/Javierdigital85/humble-heroes-backend-express
    cd humble-heroes-backend-express
-   ```
+```
 
 2. Create a .env file 
 
 3.  File with your environment variables, for example:
-
+```bash
     POSTGRES_USER=javier
     POSTGRES_PASSWORD=topsecret
     POSTGRES_DB=postgres
@@ -41,6 +41,7 @@ Make sure you have the following installed:
     DIALECT=postgres
     PORT=8000
     URL_FRONTEND=http://localhost:5173
+```    
 
 4.  Build and start the containers:
     docker compose up -d
