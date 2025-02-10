@@ -22,12 +22,11 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/humble-superhero-api.git
-   cd humble-superhero-api
-
+   git clone https://github.com/Javierdigital85/humble-heroes-backend-express
+   cd humble-heroes-backend-express
    ```
 
-2. Create a .env file based on the .env.example template:
+2. Create a .env file 
 
 3.  File with your environment variables, for example:
 
