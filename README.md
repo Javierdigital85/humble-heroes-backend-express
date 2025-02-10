@@ -40,7 +40,7 @@ Make sure you have the following installed:
     DB_NAME=postgres
     DIALECT=postgres
     PORT=8000
-    URL_FRONTEND=http://localhost:5173
+    FRONTEND_URL=http://localhost:5173
 ```    
 
 4.  Build and start the containers:
