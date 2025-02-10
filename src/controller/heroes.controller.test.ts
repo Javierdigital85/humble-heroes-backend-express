@@ -53,7 +53,7 @@ describe('POST /api/superheroes', () => {
 
     expect(response.status).toBe(400);
     expect(response.body).toHaveProperty('error', 'Validation error');
-    expect(response.body).toHaveProperty('message', "The value of 'humilityScore' must be between 1 y 10.");
+    expect(response.body).toHaveProperty('message', "The value of humility score must be between 1 and 10.");
   });
 });
 
