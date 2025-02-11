@@ -92,11 +92,8 @@ By splitting responsibilities, communicating effectively, and engaging in code r
 
 If I had more time, I would:
 
-1. Write More Tests
-2. Focus on increasing test coverage with more unit and integration tests to ensure reliability.
-3. Add More Endpoints
-4. Expand the API by adding additional endpoints to support more features and improve functionality.
-Implement Swagger Documentation
-5. Create comprehensive Swagger documentation to make the API easier to understand and use for other developers.
-Set Up a Dedicated Testing Database
-6. Configure a separate testing database to ensure isolated and consistent test environments.
+1. Add More Endpoints.
+2. Expand the API by adding additional endpoints to support more features and improve functionality.
+3. Create comprehensive Swagger documentation to make the API easier to understand and use for other developers.
+4. Set Up a Dedicated Testing Database
+5. Encrypt sensitive data, such as user information and superhero details, and implement secure authorization mechanisms (e.g., JWT tokens or OAuth). This would give users greater control over their data and protect their privacy.

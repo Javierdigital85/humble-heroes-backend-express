@@ -10,15 +10,16 @@ export const newHeroe: RequestHandler = async (req, res) => {
       return;
     }
     if (!name) {
-      res.status(400).json({ message: "Heroe needs a name" });
+      res.status(400).json({ message: "Heroe's name is required." });
       return;
     }
     if (!superpower) {
-      res.status(400).json({ message: "Heroe needs superpower" });
+      res.status(400).json({ message: "Heroe's superpower is required." });
       return;
     }
-    if (!humilityScore) {
+    if (humilityScore < 1 || humilityScore > 10) {
       res.status(400).json({
+        error: "Validation error",
         message: "The value of humility score must be between 1 and 10.",
       });
       return;

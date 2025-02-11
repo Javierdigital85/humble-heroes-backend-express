@@ -9,7 +9,7 @@ sequelize = new Sequelize({
   port: globalContants.DB_PORT,
   username: globalContants.DB_USERNAME,
   password: globalContants.DB_PASSWORD,
-  database: globalContants.DB_NAME_TEST,
+  database: globalContants.DB_NAME,
   logging: false,
 });
 

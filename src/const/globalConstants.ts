@@ -8,8 +8,7 @@ interface Config {
   DB_USERNAME?: string;
   DB_PASSWORD?: string;
   DB_DATABASE?: string;
-  DB_NAME_TEST?: string;
-  NODE_ENV?: string;
+  DB_NAME?: string;
   FRONTEND_URL: string;
 }
 
@@ -24,9 +23,8 @@ const config: Config = {
   DB_PORT: Number(process.env.DB_PORT),
   DB_USERNAME: process.env.DB_USERNAME,
   DB_PASSWORD: process.env.DB_PASSWORD,
-  DB_DATABASE: process.env.DB_NAME,
-  DB_NAME_TEST: process.env.POSTGRES_DB_TEST,
-  NODE_ENV: process.env.NODE_ENV,
+  DB_DATABASE: process.env.DB_DATABASE,
+  DB_NAME: process.env.DB_NAME,
   FRONTEND_URL: process.env.FRONTEND_URL || "http://localhost:5173"
 };
 
