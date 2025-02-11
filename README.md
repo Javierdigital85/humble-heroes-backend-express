@@ -61,9 +61,9 @@ Make sure you have the following installed:
 ## Technical Skills: Code Quality, Simplicity, and Functionality
 
 The API is built using Node.js and Express, following clean code principles and ensuring simplicity and modularity.
-Database: PostgreSQL is used for data storage.
-ORM: Sequelize is used for database operations.
-Testing: Jest and Supertest are used for unit and integration tests.
+Docker is used to manage the PostgreSQL database and simplify the development environment.
+Sequelize is used for database operations.
+Testing: Jest and Supertest are used for integration tests.
 Endpoints are structured for easy maintenance and expansion, with a focus on scalability and performance.
 
 ## Team Player Attitude
