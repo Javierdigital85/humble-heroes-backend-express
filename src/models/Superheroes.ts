@@ -17,8 +17,8 @@ Superheroes.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       validate: {
-        min: 1, // El valor mínimo será 1
-        max: 10, // El valor máximo será 10
+        min: 1, 
+        max: 10, 
       },
     },
   },
