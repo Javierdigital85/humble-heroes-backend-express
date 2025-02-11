@@ -27,7 +27,7 @@ const config: Config = {
   DB_DATABASE: process.env.DB_NAME,
   DB_NAME_TEST: process.env.POSTGRES_DB_TEST,
   NODE_ENV: process.env.NODE_ENV,
-  FRONTEND_URL: process.env.URL_FRONTEND || "http://localhost:5173"
+  FRONTEND_URL: process.env.FRONTEND_URL || "http://localhost:5173"
 };
 
 export default config;
