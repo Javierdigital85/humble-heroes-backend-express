@@ -69,20 +69,25 @@ Endpoints are structured for easy maintenance and expansion, with a focus on sca
 ## Team Player Attitude
 
 To improve or expand this task, I would collaborate with a teammate in the following ways:
-Task Breakdown and Role Assignment:
-Break down tasks into smaller subtasks and assign roles based on each teammate’s strengths. For example, one could focus on backend logic while the other handles testing and documentation.
 
-Frequent Communication:
-Regular check-ins (daily) to ensure alignment, discuss progress, and address blockers.
+1.Task Breakdown and Role Assignment
+Divide the task into smaller subtasks based on each person's expertise.
+One teammate could focus on developing new features while the other improves tests and documentation.
 
-Code Reviews and Pair Programming:
-Conduct frequent code reviews to maintain code quality and share knowledge. Pair programming could boost productivity for complex features.
+2.Frequent Communication
+Regular communication through video calls to share progress, ask for feedback, and unblock issues.
+We would set up short daily check-ins.
 
-Testing and Debugging Together:
-One teammate could focus on implementing features while the other writes tests, ensuring robust coverage.
+3.Code Reviews and Pair Programming
+Frequent code reviews to ensure high code quality and identify issues early.
+Pair programming sessions for complex features or debugging.
 
-Iterative Improvement:
-After the initial implementation, review the code to identify improvements, such as performance optimization and refactoring.
+4.Testing and Debugging Together
+One teammate could implement a feature while the other writes tests to ensure full coverage and reliability.
+Collaborative debugging to handle edge cases and deployment preparation.
+
+5.Iterative Improvement
+Review the code together and identify opportunities for refactoring or optimization.
 
 ## Eagerness to Learn: If I Had More Time
 
