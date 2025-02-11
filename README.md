@@ -70,23 +70,23 @@ Endpoints are structured for easy maintenance and expansion, with a focus on sca
 
 To improve or expand this task, I would collaborate with a teammate in the following ways:
 
-1.Task Breakdown and Role Assignment
+1. Task Breakdown and Role Assignment
 Divide the task into smaller subtasks based on each person's expertise.
 One teammate could focus on developing new features while the other improves tests and documentation.
 
-2.Frequent Communication
+2. Frequent Communication
 Regular communication through video calls to share progress, ask for feedback, and unblock issues.
 We would set up short daily check-ins.
 
-3.Code Reviews and Pair Programming
+3. Code Reviews and Pair Programming
 Frequent code reviews to ensure high code quality and identify issues early.
 Pair programming sessions for complex features or debugging.
 
-4.Testing and Debugging Together
+4. Testing and Debugging Together
 One teammate could implement a feature while the other writes tests to ensure full coverage and reliability.
 Collaborative debugging to handle edge cases and deployment preparation.
 
-5.Iterative Improvement
+5. Iterative Improvement
 Review the code together and identify opportunities for refactoring or optimization.
 
 ## Eagerness to Learn: If I Had More Time
